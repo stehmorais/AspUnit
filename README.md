@@ -1,5 +1,7 @@
 # AspUnit
-Apresentação que realizei sobre a ferramenta de testes unitários da matéria de Qualidade e Testes de Software - FATEC
+Apresentação que realizei sobre a ferramenta de testes unitários da matéria de Qualidade e Testes de Software - FATEC<br><br>
+![image](https://github.com/user-attachments/assets/382c6692-6695-4ab9-8af0-12522c5be402)
+
 
 ## Projeto de Validação de CNPJ em ASP
 Este projeto consiste em um sistema de validação de CNPJ desenvolvido em ASP (Active Server Pages), com uma série de testes automatizados para verificar a corretude do código de validação. A aplicação utiliza uma função chamada ValidateCNPJ, que verifica se o CNPJ fornecido segue o formato e regras de validação brasileiras, incluindo os dígitos verificadores.
